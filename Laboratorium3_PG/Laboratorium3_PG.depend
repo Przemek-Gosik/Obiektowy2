@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1638829821 source:c:\users\preme\desktop\laboratorium3_pg\main.cpp
+	<iostream>
+	<string>
+	"Adding.h"
+
+1638828633 c:\users\preme\desktop\laboratorium3_pg\include\array.h
+	<algorithm>
+	<iostream>
+
+1638829024 source:c:\users\preme\desktop\laboratorium3_pg\src\array.cpp
+	"Array.h"
+	<algorithm>
+	<iostream>
+	<string>
+
+1638829269 source:c:\users\preme\desktop\laboratorium3_pg\src\adding.cpp
+	"Adding.h"
+
+1638830713 c:\users\preme\desktop\laboratorium3_pg\include\adding.h
+	<algorithm>
+	<iostream>
+	<string>
+
